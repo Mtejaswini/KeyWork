@@ -1,0 +1,9 @@
+D:\Files\github\keyworkWork\kw\bin\Release\kw.exe
+D:\Files\github\keyworkWork\kw\bin\Release\kw.pdb
+D:\Files\github\keyworkWork\kw\bin\Release\SemanticLibrary.dll
+D:\Files\github\keyworkWork\kw\bin\Release\SemanticLibrary.pdb
+D:\Files\github\keyworkWork\kw\obj\Release\kw.csprojResolveAssemblyReference.cache
+D:\Files\github\keyworkWork\kw\obj\Release\kw.Demotest.resources
+D:\Files\github\keyworkWork\kw\obj\Release\kw.csproj.GenerateResource.Cache
+D:\Files\github\keyworkWork\kw\obj\Release\kw.exe
+D:\Files\github\keyworkWork\kw\obj\Release\kw.pdb

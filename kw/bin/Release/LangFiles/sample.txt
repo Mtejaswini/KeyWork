@@ -1,0 +1,1 @@
+﻿"\b(aber|sie|daß|)\b"
